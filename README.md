@@ -1,9 +1,8 @@
 ## 💻 Login Responsivo
 > Esse projeto simples consiste na criação de um formulário de login reponsivo. 
 
-![preview](./assets/preview_desktop.png)
+![preview](./assets/preview.png)
 
-![preview](./assets/preview_mobile.png) 
 
 ## 🚀 Tecnologias
 
